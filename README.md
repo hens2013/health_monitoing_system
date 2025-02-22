@@ -117,9 +117,41 @@ This project is designed to be run **locally** (without Docker).
 - Python 3.10+
 - PostgreSQL Database
 
+
 ### Steps to Run Locally
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/your-repo/health-tracker-api.git
    cd health-tracker-api
+
+## Create a Virtual Environment
+   python -m venv venv
+   source venv/bin/activate (for windows)
+
+## Install Dependencies
+   pip install -r requirements.txt
+
+## Set Up Environment Variables
+   # Create a .env file in the root directory and add:
+      DB_HOST=localhost
+      DB_PORT=5432
+      DB_USER=your_user
+      DB_PASSWORD=your_password
+      DB_NAME=health_database
+
+## Run the Application
+   uvicorn app.main:app --reload
+
+## Access API Documentation
+   Open http://127.0.0.1:8000/docs in your browser to explore and test the API.
+
+## How It Works
+   1. On startup, the application initializes the database and ensures tables exist.
+   2. Users can perform CRUD operations using API endpoints (need to be added).
+   3. Health metrics are logged and retrieved asynchronously for efficiency.
+   4. The system ensures consistency with PostgreSQL transactions.
+
+
+
+

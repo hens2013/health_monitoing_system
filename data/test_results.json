@@ -1,0 +1,352 @@
+[
+    {
+        "result_id": 1,
+        "user_id": 3,
+        "test_id": 8,
+        "test_date": "2025-02-05",
+        "result_value": 68.89
+    },
+    {
+        "result_id": 2,
+        "user_id": 8,
+        "test_id": 12,
+        "test_date": "2025-02-18",
+        "result_value": 117.41
+    },
+    {
+        "result_id": 3,
+        "user_id": 5,
+        "test_id": 2,
+        "test_date": "2025-02-01",
+        "result_value": 63.83
+    },
+    {
+        "result_id": 4,
+        "user_id": 1,
+        "test_id": 4,
+        "test_date": "2025-02-17",
+        "result_value": 113.37
+    },
+    {
+        "result_id": 5,
+        "user_id": 8,
+        "test_id": 4,
+        "test_date": "2025-02-14",
+        "result_value": 80.29
+    },
+    {
+        "result_id": 6,
+        "user_id": 3,
+        "test_id": 9,
+        "test_date": "2025-02-19",
+        "result_value": 71.87
+    },
+    {
+        "result_id": 7,
+        "user_id": 10,
+        "test_id": 6,
+        "test_date": "2025-02-12",
+        "result_value": 168.57
+    },
+    {
+        "result_id": 8,
+        "user_id": 1,
+        "test_id": 4,
+        "test_date": "2025-02-06",
+        "result_value": 123.38
+    },
+    {
+        "result_id": 9,
+        "user_id": 3,
+        "test_id": 11,
+        "test_date": "2025-01-24",
+        "result_value": 125.3
+    },
+    {
+        "result_id": 10,
+        "user_id": 5,
+        "test_id": 9,
+        "test_date": "2025-02-09",
+        "result_value": 143.83
+    },
+    {
+        "result_id": 11,
+        "user_id": 4,
+        "test_id": 12,
+        "test_date": "2025-01-21",
+        "result_value": 133.91
+    },
+    {
+        "result_id": 12,
+        "user_id": 2,
+        "test_id": 14,
+        "test_date": "2025-02-06",
+        "result_value": 162.18
+    },
+    {
+        "result_id": 13,
+        "user_id": 4,
+        "test_id": 14,
+        "test_date": "2025-01-25",
+        "result_value": 102.93
+    },
+    {
+        "result_id": 14,
+        "user_id": 7,
+        "test_id": 5,
+        "test_date": "2025-02-13",
+        "result_value": 106.01
+    },
+    {
+        "result_id": 15,
+        "user_id": 10,
+        "test_id": 9,
+        "test_date": "2025-01-21",
+        "result_value": 145.72
+    },
+    {
+        "result_id": 16,
+        "user_id": 4,
+        "test_id": 12,
+        "test_date": "2025-01-23",
+        "result_value": 143.22
+    },
+    {
+        "result_id": 17,
+        "user_id": 3,
+        "test_id": 3,
+        "test_date": "2025-02-18",
+        "result_value": 113.42
+    },
+    {
+        "result_id": 18,
+        "user_id": 6,
+        "test_id": 13,
+        "test_date": "2025-02-05",
+        "result_value": 67.64
+    },
+    {
+        "result_id": 19,
+        "user_id": 6,
+        "test_id": 5,
+        "test_date": "2025-02-12",
+        "result_value": 127.43
+    },
+    {
+        "result_id": 20,
+        "user_id": 9,
+        "test_id": 1,
+        "test_date": "2025-01-27",
+        "result_value": 97.34
+    },
+    {
+        "result_id": 21,
+        "user_id": 9,
+        "test_id": 8,
+        "test_date": "2025-02-13",
+        "result_value": 123.58
+    },
+    {
+        "result_id": 22,
+        "user_id": 5,
+        "test_id": 8,
+        "test_date": "2025-01-31",
+        "result_value": 179.22
+    },
+    {
+        "result_id": 23,
+        "user_id": 1,
+        "test_id": 13,
+        "test_date": "2025-02-14",
+        "result_value": 125.93
+    },
+    {
+        "result_id": 24,
+        "user_id": 3,
+        "test_id": 5,
+        "test_date": "2025-01-26",
+        "result_value": 170.39
+    },
+    {
+        "result_id": 25,
+        "user_id": 4,
+        "test_id": 9,
+        "test_date": "2025-02-17",
+        "result_value": 169.8
+    },
+    {
+        "result_id": 26,
+        "user_id": 10,
+        "test_id": 5,
+        "test_date": "2025-02-03",
+        "result_value": 149.21
+    },
+    {
+        "result_id": 27,
+        "user_id": 10,
+        "test_id": 7,
+        "test_date": "2025-01-26",
+        "result_value": 144.34
+    },
+    {
+        "result_id": 28,
+        "user_id": 7,
+        "test_id": 14,
+        "test_date": "2025-02-19",
+        "result_value": 167.84
+    },
+    {
+        "result_id": 29,
+        "user_id": 5,
+        "test_id": 6,
+        "test_date": "2025-01-29",
+        "result_value": 141.83
+    },
+    {
+        "result_id": 30,
+        "user_id": 3,
+        "test_id": 8,
+        "test_date": "2025-01-21",
+        "result_value": 168.33
+    },
+    {
+        "result_id": 31,
+        "user_id": 7,
+        "test_id": 7,
+        "test_date": "2025-02-04",
+        "result_value": 62.17
+    },
+    {
+        "result_id": 32,
+        "user_id": 5,
+        "test_id": 5,
+        "test_date": "2025-01-28",
+        "result_value": 64.76
+    },
+    {
+        "result_id": 33,
+        "user_id": 6,
+        "test_id": 1,
+        "test_date": "2025-02-08",
+        "result_value": 128.12
+    },
+    {
+        "result_id": 34,
+        "user_id": 7,
+        "test_id": 4,
+        "test_date": "2025-02-02",
+        "result_value": 178.6
+    },
+    {
+        "result_id": 35,
+        "user_id": 4,
+        "test_id": 4,
+        "test_date": "2025-02-07",
+        "result_value": 106.98
+    },
+    {
+        "result_id": 36,
+        "user_id": 8,
+        "test_id": 14,
+        "test_date": "2025-01-25",
+        "result_value": 167.48
+    },
+    {
+        "result_id": 37,
+        "user_id": 7,
+        "test_id": 4,
+        "test_date": "2025-01-25",
+        "result_value": 164.28
+    },
+    {
+        "result_id": 38,
+        "user_id": 4,
+        "test_id": 10,
+        "test_date": "2025-02-14",
+        "result_value": 93.96
+    },
+    {
+        "result_id": 39,
+        "user_id": 10,
+        "test_id": 3,
+        "test_date": "2025-02-01",
+        "result_value": 63.66
+    },
+    {
+        "result_id": 40,
+        "user_id": 9,
+        "test_id": 11,
+        "test_date": "2025-01-27",
+        "result_value": 160.26
+    },
+    {
+        "result_id": 41,
+        "user_id": 5,
+        "test_id": 2,
+        "test_date": "2025-01-21",
+        "result_value": 60.95
+    },
+    {
+        "result_id": 42,
+        "user_id": 8,
+        "test_id": 15,
+        "test_date": "2025-02-18",
+        "result_value": 60.38
+    },
+    {
+        "result_id": 43,
+        "user_id": 7,
+        "test_id": 9,
+        "test_date": "2025-02-08",
+        "result_value": 101.57
+    },
+    {
+        "result_id": 44,
+        "user_id": 5,
+        "test_id": 6,
+        "test_date": "2025-02-09",
+        "result_value": 84.34
+    },
+    {
+        "result_id": 45,
+        "user_id": 1,
+        "test_id": 15,
+        "test_date": "2025-02-01",
+        "result_value": 94.7
+    },
+    {
+        "result_id": 46,
+        "user_id": 9,
+        "test_id": 3,
+        "test_date": "2025-02-06",
+        "result_value": 166.4
+    },
+    {
+        "result_id": 47,
+        "user_id": 1,
+        "test_id": 2,
+        "test_date": "2025-02-16",
+        "result_value": 91.6
+    },
+    {
+        "result_id": 48,
+        "user_id": 1,
+        "test_id": 15,
+        "test_date": "2025-01-21",
+        "result_value": 96.68
+    },
+    {
+        "result_id": 49,
+        "user_id": 2,
+        "test_id": 1,
+        "test_date": "2025-01-26",
+        "result_value": 122.67
+    },
+    {
+        "result_id": 50,
+        "user_id": 6,
+        "test_id": 7,
+        "test_date": "2025-02-05",
+        "result_value": 169.44
+    }
+]

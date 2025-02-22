@@ -1,0 +1,42 @@
+[
+    {
+        "activity_type_id": 1,
+        "name": "Running"
+    },
+    {
+        "activity_type_id": 2,
+        "name": "Walking"
+    },
+    {
+        "activity_type_id": 3,
+        "name": "Cycling"
+    },
+    {
+        "activity_type_id": 4,
+        "name": "Swimming"
+    },
+    {
+        "activity_type_id": 5,
+        "name": "Yoga"
+    },
+    {
+        "activity_type_id": 6,
+        "name": "Strength Training"
+    },
+    {
+        "activity_type_id": 7,
+        "name": "Boxing"
+    },
+    {
+        "activity_type_id": 8,
+        "name": "Jump Rope"
+    },
+    {
+        "activity_type_id": 9,
+        "name": "Rowing"
+    },
+    {
+        "activity_type_id": 10,
+        "name": "Hiking"
+    }
+]

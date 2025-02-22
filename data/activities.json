@@ -1,0 +1,502 @@
+[
+    {
+        "activity_id": 1,
+        "user_id": 4,
+        "activity_type_id": 6,
+        "start_time": "2025-01-28T06:56:48",
+        "end_time": "2025-01-28T07:22:48",
+        "calories_burned": 226.98,
+        "avg_heart_rate": 98,
+        "max_heart_rate": 129
+    },
+    {
+        "activity_id": 2,
+        "user_id": 6,
+        "activity_type_id": 2,
+        "start_time": "2025-02-04T21:56:48",
+        "end_time": "2025-02-04T22:19:48",
+        "calories_burned": 121.52,
+        "avg_heart_rate": 148,
+        "max_heart_rate": 153
+    },
+    {
+        "activity_id": 3,
+        "user_id": 9,
+        "activity_type_id": 1,
+        "start_time": "2025-02-01T03:56:48",
+        "end_time": "2025-02-01T05:08:48",
+        "calories_burned": 175.54,
+        "avg_heart_rate": 132,
+        "max_heart_rate": 159
+    },
+    {
+        "activity_id": 4,
+        "user_id": 4,
+        "activity_type_id": 5,
+        "start_time": "2025-02-16T08:56:48",
+        "end_time": "2025-02-16T10:05:48",
+        "calories_burned": 563.4,
+        "avg_heart_rate": 150,
+        "max_heart_rate": 129
+    },
+    {
+        "activity_id": 5,
+        "user_id": 7,
+        "activity_type_id": 2,
+        "start_time": "2025-01-27T08:56:48",
+        "end_time": "2025-01-27T09:22:48",
+        "calories_burned": 552.22,
+        "avg_heart_rate": 124,
+        "max_heart_rate": 160
+    },
+    {
+        "activity_id": 6,
+        "user_id": 4,
+        "activity_type_id": 2,
+        "start_time": "2025-01-22T20:56:48",
+        "end_time": "2025-01-22T21:28:48",
+        "calories_burned": 539.87,
+        "avg_heart_rate": 143,
+        "max_heart_rate": 184
+    },
+    {
+        "activity_id": 7,
+        "user_id": 8,
+        "activity_type_id": 4,
+        "start_time": "2025-02-16T22:56:48",
+        "end_time": "2025-02-16T23:45:48",
+        "calories_burned": 217.66,
+        "avg_heart_rate": 106,
+        "max_heart_rate": 153
+    },
+    {
+        "activity_id": 8,
+        "user_id": 7,
+        "activity_type_id": 6,
+        "start_time": "2025-02-05T23:56:48",
+        "end_time": "2025-02-06T01:34:48",
+        "calories_burned": 277.75,
+        "avg_heart_rate": 151,
+        "max_heart_rate": 177
+    },
+    {
+        "activity_id": 9,
+        "user_id": 9,
+        "activity_type_id": 4,
+        "start_time": "2025-01-23T05:56:48",
+        "end_time": "2025-01-23T07:19:48",
+        "calories_burned": 155.59,
+        "avg_heart_rate": 157,
+        "max_heart_rate": 146
+    },
+    {
+        "activity_id": 10,
+        "user_id": 2,
+        "activity_type_id": 3,
+        "start_time": "2025-02-16T05:56:48",
+        "end_time": "2025-02-16T07:38:48",
+        "calories_burned": 418.43,
+        "avg_heart_rate": 156,
+        "max_heart_rate": 144
+    },
+    {
+        "activity_id": 11,
+        "user_id": 3,
+        "activity_type_id": 3,
+        "start_time": "2025-02-15T22:56:48",
+        "end_time": "2025-02-16T00:52:48",
+        "calories_burned": 351.11,
+        "avg_heart_rate": 93,
+        "max_heart_rate": 126
+    },
+    {
+        "activity_id": 12,
+        "user_id": 2,
+        "activity_type_id": 5,
+        "start_time": "2025-02-09T06:56:48",
+        "end_time": "2025-02-09T07:57:48",
+        "calories_burned": 355.43,
+        "avg_heart_rate": 157,
+        "max_heart_rate": 163
+    },
+    {
+        "activity_id": 13,
+        "user_id": 4,
+        "activity_type_id": 4,
+        "start_time": "2025-01-25T11:56:48",
+        "end_time": "2025-01-25T13:48:48",
+        "calories_burned": 548.51,
+        "avg_heart_rate": 158,
+        "max_heart_rate": 144
+    },
+    {
+        "activity_id": 14,
+        "user_id": 5,
+        "activity_type_id": 10,
+        "start_time": "2025-01-22T09:56:48",
+        "end_time": "2025-01-22T10:32:48",
+        "calories_burned": 580.3,
+        "avg_heart_rate": 148,
+        "max_heart_rate": 158
+    },
+    {
+        "activity_id": 15,
+        "user_id": 2,
+        "activity_type_id": 1,
+        "start_time": "2025-02-01T00:56:48",
+        "end_time": "2025-02-01T02:44:48",
+        "calories_burned": 463.28,
+        "avg_heart_rate": 137,
+        "max_heart_rate": 190
+    },
+    {
+        "activity_id": 16,
+        "user_id": 1,
+        "activity_type_id": 10,
+        "start_time": "2025-02-07T07:56:48",
+        "end_time": "2025-02-07T09:16:48",
+        "calories_burned": 138.5,
+        "avg_heart_rate": 100,
+        "max_heart_rate": 120
+    },
+    {
+        "activity_id": 17,
+        "user_id": 10,
+        "activity_type_id": 9,
+        "start_time": "2025-02-13T08:56:48",
+        "end_time": "2025-02-13T10:50:48",
+        "calories_burned": 549.11,
+        "avg_heart_rate": 143,
+        "max_heart_rate": 173
+    },
+    {
+        "activity_id": 18,
+        "user_id": 10,
+        "activity_type_id": 9,
+        "start_time": "2025-02-16T02:56:48",
+        "end_time": "2025-02-16T04:19:48",
+        "calories_burned": 413.02,
+        "avg_heart_rate": 138,
+        "max_heart_rate": 123
+    },
+    {
+        "activity_id": 19,
+        "user_id": 2,
+        "activity_type_id": 10,
+        "start_time": "2025-01-29T23:56:48",
+        "end_time": "2025-01-30T01:05:48",
+        "calories_burned": 230.15,
+        "avg_heart_rate": 128,
+        "max_heart_rate": 145
+    },
+    {
+        "activity_id": 20,
+        "user_id": 10,
+        "activity_type_id": 5,
+        "start_time": "2025-01-29T09:56:48",
+        "end_time": "2025-01-29T11:23:48",
+        "calories_burned": 446.14,
+        "avg_heart_rate": 146,
+        "max_heart_rate": 157
+    },
+    {
+        "activity_id": 21,
+        "user_id": 2,
+        "activity_type_id": 4,
+        "start_time": "2025-02-08T00:56:48",
+        "end_time": "2025-02-08T01:50:48",
+        "calories_burned": 258.05,
+        "avg_heart_rate": 126,
+        "max_heart_rate": 128
+    },
+    {
+        "activity_id": 22,
+        "user_id": 7,
+        "activity_type_id": 1,
+        "start_time": "2025-01-26T00:56:48",
+        "end_time": "2025-01-26T01:50:48",
+        "calories_burned": 421.11,
+        "avg_heart_rate": 148,
+        "max_heart_rate": 183
+    },
+    {
+        "activity_id": 23,
+        "user_id": 1,
+        "activity_type_id": 2,
+        "start_time": "2025-01-22T20:56:48",
+        "end_time": "2025-01-22T22:11:48",
+        "calories_burned": 329.68,
+        "avg_heart_rate": 128,
+        "max_heart_rate": 187
+    },
+    {
+        "activity_id": 24,
+        "user_id": 2,
+        "activity_type_id": 9,
+        "start_time": "2025-02-04T21:56:48",
+        "end_time": "2025-02-04T23:25:48",
+        "calories_burned": 325.36,
+        "avg_heart_rate": 107,
+        "max_heart_rate": 152
+    },
+    {
+        "activity_id": 25,
+        "user_id": 8,
+        "activity_type_id": 9,
+        "start_time": "2025-01-22T00:56:48",
+        "end_time": "2025-01-22T02:37:48",
+        "calories_burned": 514.7,
+        "avg_heart_rate": 153,
+        "max_heart_rate": 141
+    },
+    {
+        "activity_id": 26,
+        "user_id": 3,
+        "activity_type_id": 9,
+        "start_time": "2025-02-01T22:56:48",
+        "end_time": "2025-02-02T00:29:48",
+        "calories_burned": 469.62,
+        "avg_heart_rate": 159,
+        "max_heart_rate": 144
+    },
+    {
+        "activity_id": 27,
+        "user_id": 7,
+        "activity_type_id": 4,
+        "start_time": "2025-02-19T03:56:48",
+        "end_time": "2025-02-19T05:20:48",
+        "calories_burned": 549.35,
+        "avg_heart_rate": 122,
+        "max_heart_rate": 137
+    },
+    {
+        "activity_id": 28,
+        "user_id": 3,
+        "activity_type_id": 6,
+        "start_time": "2025-01-21T20:56:48",
+        "end_time": "2025-01-21T22:27:48",
+        "calories_burned": 327.09,
+        "avg_heart_rate": 118,
+        "max_heart_rate": 186
+    },
+    {
+        "activity_id": 29,
+        "user_id": 10,
+        "activity_type_id": 6,
+        "start_time": "2025-02-05T00:56:48",
+        "end_time": "2025-02-05T01:37:48",
+        "calories_burned": 434.28,
+        "avg_heart_rate": 130,
+        "max_heart_rate": 153
+    },
+    {
+        "activity_id": 30,
+        "user_id": 5,
+        "activity_type_id": 1,
+        "start_time": "2025-02-09T22:56:48",
+        "end_time": "2025-02-10T00:12:48",
+        "calories_burned": 461.95,
+        "avg_heart_rate": 98,
+        "max_heart_rate": 178
+    },
+    {
+        "activity_id": 31,
+        "user_id": 2,
+        "activity_type_id": 4,
+        "start_time": "2025-01-27T11:56:48",
+        "end_time": "2025-01-27T12:20:48",
+        "calories_burned": 532.53,
+        "avg_heart_rate": 142,
+        "max_heart_rate": 132
+    },
+    {
+        "activity_id": 32,
+        "user_id": 4,
+        "activity_type_id": 6,
+        "start_time": "2025-02-16T08:56:48",
+        "end_time": "2025-02-16T09:29:48",
+        "calories_burned": 562.18,
+        "avg_heart_rate": 97,
+        "max_heart_rate": 132
+    },
+    {
+        "activity_id": 33,
+        "user_id": 3,
+        "activity_type_id": 3,
+        "start_time": "2025-02-15T06:56:48",
+        "end_time": "2025-02-15T08:51:48",
+        "calories_burned": 151.1,
+        "avg_heart_rate": 111,
+        "max_heart_rate": 173
+    },
+    {
+        "activity_id": 34,
+        "user_id": 7,
+        "activity_type_id": 9,
+        "start_time": "2025-01-24T23:56:48",
+        "end_time": "2025-01-25T01:28:48",
+        "calories_burned": 439.52,
+        "avg_heart_rate": 135,
+        "max_heart_rate": 188
+    },
+    {
+        "activity_id": 35,
+        "user_id": 5,
+        "activity_type_id": 1,
+        "start_time": "2025-01-31T10:56:48",
+        "end_time": "2025-01-31T12:11:48",
+        "calories_burned": 342.68,
+        "avg_heart_rate": 119,
+        "max_heart_rate": 171
+    },
+    {
+        "activity_id": 36,
+        "user_id": 2,
+        "activity_type_id": 8,
+        "start_time": "2025-02-19T02:56:48",
+        "end_time": "2025-02-19T04:00:48",
+        "calories_burned": 409.68,
+        "avg_heart_rate": 124,
+        "max_heart_rate": 144
+    },
+    {
+        "activity_id": 37,
+        "user_id": 1,
+        "activity_type_id": 6,
+        "start_time": "2025-02-01T07:56:48",
+        "end_time": "2025-02-01T09:11:48",
+        "calories_burned": 246.34,
+        "avg_heart_rate": 103,
+        "max_heart_rate": 152
+    },
+    {
+        "activity_id": 38,
+        "user_id": 3,
+        "activity_type_id": 3,
+        "start_time": "2025-01-27T01:56:48",
+        "end_time": "2025-01-27T03:08:48",
+        "calories_burned": 494.31,
+        "avg_heart_rate": 97,
+        "max_heart_rate": 179
+    },
+    {
+        "activity_id": 39,
+        "user_id": 2,
+        "activity_type_id": 9,
+        "start_time": "2025-01-22T06:56:48",
+        "end_time": "2025-01-22T07:23:48",
+        "calories_burned": 154.27,
+        "avg_heart_rate": 91,
+        "max_heart_rate": 153
+    },
+    {
+        "activity_id": 40,
+        "user_id": 9,
+        "activity_type_id": 7,
+        "start_time": "2025-02-03T05:56:48",
+        "end_time": "2025-02-03T07:09:48",
+        "calories_burned": 256.19,
+        "avg_heart_rate": 152,
+        "max_heart_rate": 165
+    },
+    {
+        "activity_id": 41,
+        "user_id": 3,
+        "activity_type_id": 6,
+        "start_time": "2025-02-10T22:56:48",
+        "end_time": "2025-02-11T00:01:48",
+        "calories_burned": 393.04,
+        "avg_heart_rate": 121,
+        "max_heart_rate": 135
+    },
+    {
+        "activity_id": 42,
+        "user_id": 2,
+        "activity_type_id": 4,
+        "start_time": "2025-02-12T07:56:48",
+        "end_time": "2025-02-12T08:49:48",
+        "calories_burned": 257.75,
+        "avg_heart_rate": 119,
+        "max_heart_rate": 161
+    },
+    {
+        "activity_id": 43,
+        "user_id": 3,
+        "activity_type_id": 8,
+        "start_time": "2025-02-10T00:56:48",
+        "end_time": "2025-02-10T01:40:48",
+        "calories_burned": 352.79,
+        "avg_heart_rate": 135,
+        "max_heart_rate": 122
+    },
+    {
+        "activity_id": 44,
+        "user_id": 1,
+        "activity_type_id": 9,
+        "start_time": "2025-01-28T21:56:48",
+        "end_time": "2025-01-28T22:55:48",
+        "calories_burned": 274.53,
+        "avg_heart_rate": 93,
+        "max_heart_rate": 165
+    },
+    {
+        "activity_id": 45,
+        "user_id": 2,
+        "activity_type_id": 9,
+        "start_time": "2025-02-04T10:56:48",
+        "end_time": "2025-02-04T12:03:48",
+        "calories_burned": 171.97,
+        "avg_heart_rate": 122,
+        "max_heart_rate": 126
+    },
+    {
+        "activity_id": 46,
+        "user_id": 4,
+        "activity_type_id": 4,
+        "start_time": "2025-02-17T08:56:48",
+        "end_time": "2025-02-17T09:48:48",
+        "calories_burned": 274.81,
+        "avg_heart_rate": 115,
+        "max_heart_rate": 128
+    },
+    {
+        "activity_id": 47,
+        "user_id": 5,
+        "activity_type_id": 1,
+        "start_time": "2025-02-19T10:56:48",
+        "end_time": "2025-02-19T12:09:48",
+        "calories_burned": 535.44,
+        "avg_heart_rate": 143,
+        "max_heart_rate": 137
+    },
+    {
+        "activity_id": 48,
+        "user_id": 4,
+        "activity_type_id": 3,
+        "start_time": "2025-01-25T05:56:48",
+        "end_time": "2025-01-25T07:00:48",
+        "calories_burned": 224.98,
+        "avg_heart_rate": 114,
+        "max_heart_rate": 128
+    },
+    {
+        "activity_id": 49,
+        "user_id": 2,
+        "activity_type_id": 3,
+        "start_time": "2025-01-31T03:56:48",
+        "end_time": "2025-01-31T05:20:48",
+        "calories_burned": 170.58,
+        "avg_heart_rate": 144,
+        "max_heart_rate": 124
+    },
+    {
+        "activity_id": 50,
+        "user_id": 10,
+        "activity_type_id": 10,
+        "start_time": "2025-02-09T05:56:48",
+        "end_time": "2025-02-09T07:30:48",
+        "calories_burned": 419.34,
+        "avg_heart_rate": 90,
+        "max_heart_rate": 131
+    }
+]

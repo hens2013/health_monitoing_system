@@ -1,0 +1,107 @@
+[
+    {
+        "test_id": 1,
+        "test_name": "Glucose",
+        "unit": "mg/dL",
+        "lower_bound": 70,
+        "upper_bound": 140
+    },
+    {
+        "test_id": 2,
+        "test_name": "Cholesterol (Total)",
+        "unit": "mg/dL",
+        "lower_bound": 125,
+        "upper_bound": 200
+    },
+    {
+        "test_id": 3,
+        "test_name": "HDL Cholesterol",
+        "unit": "mg/dL",
+        "lower_bound": 40,
+        "upper_bound": 60
+    },
+    {
+        "test_id": 4,
+        "test_name": "LDL Cholesterol",
+        "unit": "mg/dL",
+        "lower_bound": 50,
+        "upper_bound": 130
+    },
+    {
+        "test_id": 5,
+        "test_name": "Triglycerides",
+        "unit": "mg/dL",
+        "lower_bound": 35,
+        "upper_bound": 150
+    },
+    {
+        "test_id": 6,
+        "test_name": "Hemoglobin",
+        "unit": "g/dL",
+        "lower_bound": 12,
+        "upper_bound": 17.5
+    },
+    {
+        "test_id": 7,
+        "test_name": "Hematocrit",
+        "unit": "%",
+        "lower_bound": 36,
+        "upper_bound": 50
+    },
+    {
+        "test_id": 8,
+        "test_name": "Platelet Count",
+        "unit": "10^3/uL",
+        "lower_bound": 150,
+        "upper_bound": 450
+    },
+    {
+        "test_id": 9,
+        "test_name": "White Blood Cell Count",
+        "unit": "10^3/uL",
+        "lower_bound": 4,
+        "upper_bound": 11
+    },
+    {
+        "test_id": 10,
+        "test_name": "Red Blood Cell Count",
+        "unit": "10^6/uL",
+        "lower_bound": 4.2,
+        "upper_bound": 5.9
+    },
+    {
+        "test_id": 11,
+        "test_name": "Sodium",
+        "unit": "mmol/L",
+        "lower_bound": 135,
+        "upper_bound": 145
+    },
+    {
+        "test_id": 12,
+        "test_name": "Potassium",
+        "unit": "mmol/L",
+        "lower_bound": 3.5,
+        "upper_bound": 5.1
+    },
+    {
+        "test_id": 13,
+        "test_name": "Calcium",
+        "unit": "mg/dL",
+        "lower_bound": 8.5,
+        "upper_bound": 10.2
+    },
+    {
+        "test_id": 14,
+        "test_name": "C-Reactive Protein (CRP)",
+        "unit": "mg/L",
+        "lower_bound": 0,
+        "upper_bound": 10
+    },
+    {
+        "test_id": 15,
+        "test_name": "Thyroid-Stimulating Hormone (TSH)",
+        "unit": "mIU/L",
+        "lower_bound": 0.4,
+        "upper_bound": 4.0
+    }
+]
